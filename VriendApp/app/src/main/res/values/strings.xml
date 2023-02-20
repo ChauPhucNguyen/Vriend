@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vriend</string>
+    <string name="email_id">Email Id</string>
+    <string name="dont_have_an_account"><u>Do not have an account? SignUp here.</u></string>
+</resources>
