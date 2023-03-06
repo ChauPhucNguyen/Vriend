@@ -36,6 +36,28 @@ public class HomeActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        // Click listener for profile transition
+        binding.btnProfile.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public  void onClick(View view) {
+                //navigate to profile page
+                HomeActivity.this.finish();
+                Intent intent = new Intent(HomeActivity.this, ProfileActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        // Click listener for map/main page transition
+        binding.btnMap.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public  void onClick(View view) {
+                //navigate to profile page
+                HomeActivity.this.finish();
+                Intent intent = new Intent(HomeActivity.this, MapsActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
     @Override
