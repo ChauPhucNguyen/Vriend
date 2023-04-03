@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Vriend</string>
+    <string name="email_id">Email Id</string>
+    <string name="dont_have_an_account"><u>Do not have an account? SignUp here.</u></string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="dialog_title">Chose Activites you like to do</string>
+    <string name="ok_label">Nice</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_label">Clear all</string>
+
+
+    <string-array name="Favorite_Activities">
+        <item>Fishing</item>
+        <item>Book Club</item>
+        <item>Camp Fire</item>
+        <item>Music party</item>
+        <item>CookOut</item>
+        <item>Social Drinker</item>
+        <item>Painting</item>
+        <item>Exercising</item>
+        <item>Dancing</item>
+        <item>Sports Watch Party</item>
+    </string-array>
+
+</resources>
