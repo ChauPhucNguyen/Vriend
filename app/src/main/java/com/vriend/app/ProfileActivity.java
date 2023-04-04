@@ -5,19 +5,21 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.TextView;
+
 import com.vriend.app.databinding.ActivityProfileBinding;
+
+import org.w3c.dom.Text;
 
 public class ProfileActivity extends AppCompatActivity {
 
     //binding object
     private ActivityProfileBinding binding;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         binding = ActivityProfileBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
-
         //btn control for home transition
 
         binding.btnHome.setOnClickListener(new View.OnClickListener(){

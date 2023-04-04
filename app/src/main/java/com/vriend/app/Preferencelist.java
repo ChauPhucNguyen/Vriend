@@ -17,10 +17,12 @@ public class Preferencelist extends AppCompatActivity {
     boolean[] checkedItems;
     ArrayList<Integer> mUserItems = new ArrayList<>();
     TextView mItemSelected;
+
     private ActivityPreferencelistBinding binding;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        mItemSelected = (TextView) findViewById(R.id.tvItemSelected);
         binding = ActivityPreferencelistBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
         setContentView(R.layout.activity_preferencelist);
