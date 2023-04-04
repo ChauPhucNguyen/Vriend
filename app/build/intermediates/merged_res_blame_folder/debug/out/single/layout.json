@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Schoolwork\\cse3311\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "D:\\Schoolwork\\cse3311\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\Schoolwork\\cse3311\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "D:\\Schoolwork\\cse3311\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\Schoolwork\\cse3311\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\Schoolwork\\cse3311\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Schoolwork\\cse3311\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "D:\\Schoolwork\\cse3311\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Schoolwork\\cse3311\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_preferencelist.xml",
+        "source": "D:\\Schoolwork\\cse3311\\app\\src\\main\\res\\layout\\activity_preferencelist.xml"
+    },
+    {
+        "merged": "D:\\Schoolwork\\cse3311\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_signup.xml",
+        "source": "D:\\Schoolwork\\cse3311\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    }
+]
