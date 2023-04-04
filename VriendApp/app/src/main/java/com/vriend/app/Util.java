@@ -13,4 +13,12 @@ public class Util {
         imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
     }
 
+    //takes in two longs and does a bit-wise AND, then finds degree of similarity
+    public int prefBitmaskComparison(long prefBMOne, long prefBMTwo)
+    {
+        long tempPrefBM = prefBMOne & prefBMTwo;
+        int degreeOfSimilarity = Long.bitCount(tempPrefBM);
+        return degreeOfSimilarity;
+    }
+
 }

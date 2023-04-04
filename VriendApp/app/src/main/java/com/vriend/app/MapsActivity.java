@@ -11,11 +11,20 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.vriend.app.databinding.ActivityMapsBinding;
+import com.vriend.app.userInfo;
+import com.vriend.app.Util;
+
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
     private GoogleMap mMap;
     private ActivityMapsBinding binding;
+
+    //this function calls in the relevant data and provides a best match, then marks location for zooming
+    public void findNearestEvent()
+    {
+
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

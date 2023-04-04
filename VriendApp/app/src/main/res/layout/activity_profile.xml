@@ -24,6 +24,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Find something to do..." />
+
+        <Button
+            android:id="@+id/btnHostEvent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Host an Event" />
     </LinearLayout>
 
     <ScrollView
@@ -36,96 +42,36 @@
             android:orientation="vertical">
 
             <TextView
-                android:id="@+id/textView6"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Event type 1"
-                android:textAppearance="@style/TextAppearance.AppCompat.Large" />
-
-            <HorizontalScrollView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent">
-
-                <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:orientation="horizontal">
-
-                    <ToggleButton
-                        android:id="@+id/btnA1"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:checked="false"
-                        android:text="Event subtype 1-1"
-                        android:textOff="Event subtype 1-1"
-                        android:textOn="Event subtype 1-1" />
-
-                    <ToggleButton
-                        android:id="@+id/btnA2"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:text="Event subtype 1-2"
-                        android:textOff="Event subtype 1-2"
-                        android:textOn="Event subtype 1-2" />
-
-                    <ToggleButton
-                        android:id="@+id/btnA3"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:text="Event subtype 1-3"
-                        android:textOff="Event subtype 1-3"
-                        android:textOn="Event subtype 1-3" />
-                </LinearLayout>
-            </HorizontalScrollView>
-
-            <TextView
                 android:id="@+id/textView4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Event type 2"
+                android:text="Music"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 
-            <HorizontalScrollView
+            <ToggleButton
+                android:id="@+id/Event1"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Metal"
+                android:textOn="Metal" />
 
-                <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:orientation="horizontal" >
+            <ToggleButton
+                android:id="@+id/Event2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Rap"
+                android:textOn="Rap" />
 
-                    <ToggleButton
-                        android:id="@+id/btnB1"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:checked="false"
-                        android:text="Event subtype 2-1"
-                        android:textOff="Event subtype 2-1"
-                        android:textOn="Event subtype 2-1" />
+            <ToggleButton
+                android:id="@+id/Event3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Folk"
+                android:textOn="Folk" />
 
-                    <ToggleButton
-                        android:id="@+id/btnB2"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:text="Event subtype 2-2"
-                        android:textOff="Event subtype 2-2"
-                        android:textOn="Event subtype 2-2" />
-
-                    <ToggleButton
-                        android:id="@+id/btnB3"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:text="Event subtype 3-3"
-                        android:textOff="Event subtype 3-3"
-                        android:textOn="Event subtype 3-3" />
-                </LinearLayout>
-            </HorizontalScrollView>
         </LinearLayout>
     </ScrollView>
 
