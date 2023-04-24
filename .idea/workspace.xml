@@ -4,12 +4,394 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3859afd-167d-4f19-96d5-8f82239eba69" name="Changes" comment="Morris Branch">
-      <change afterPath="$PROJECT_DIR$/app/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VriendApp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VriendApp/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="b8f59c17-3262-4194-8be1-b932f329d230" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cse3311.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_6_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_6_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_6_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_browser_browser_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_concurrent_concurrent_futures_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_1_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_9_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_9_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_databinding_viewbinding_7_0_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_6_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_5_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_5_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_5_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_5_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_17_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_18_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_18_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_18_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_safetynet_17_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_18_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_6_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_annotations_16_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_21_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_20_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_20_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_components_17_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_listenablefuture_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_7_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_7_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/EmailAuthApp.app.androidTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/EmailAuthApp.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/EmailAuthApp.app.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/EmailAuthApp.app.unitTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/17PmO326uVobs+yv95Y6szYasdU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/1DJP1wQRc8V6WsKF0TIUvst0eE0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/1j21RdI84zYzMTb1RD8cOKBFql4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/2CluVSZn_vpJy83Hpj6a34uhKk8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/2qx6qcUuHDlp2HUTS23SXiSXXFE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/37dxCCMjJooDipXg1Q6N5+jUSH0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/3MWPG+NNpKRLjJ+TKNu76qDQmzo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/3j2JrQ+YDippT6e9jGKVl1Smw3w=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/4_Wp1ZK+iit1lGAZ+f6vMxX7QBo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/4lAB5p7RUmpx_qvyWGZ7xtfQLsY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/5LepHqTnEDn3fpyOqtnljnpjISM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/78rHC3pM_Aq8z3Mln+yPUvE+6pU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/7eG6zpgPJXkOzluaKLrbSaBFs50=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/8lbllC4mZYxrLUrLJGtwTwys8aE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/9ZE+N_OE50QQ+iJfYlUfrYVBSFk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/9kZ_s9i5+VbcM73yzsiHfo34pSQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ActivityHomeBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ActivityHomeBinding.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ActivityLoginBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ActivityLoginBinding.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ActivityMapsBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ActivityMapsBinding.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ActivityProfileBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ActivityProfileBinding.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ActivitySignupBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ActivitySignupBinding.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/AvpuTa3BKc6Y8F4q0SZypfjpYrY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/Axo4PX9e9XGlSDeuJoLm6hq6tM0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/BE+6y9IZaTF+mRsAAYtJLXMR11M=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/CfG3S1H6nKSMHgonh_M9hpdYrg8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/D+CXQCLzEZnzZe4Q+_R152ud+oc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/E7z_9VaX9lDGT4a4F1nWnVuFtYQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/HKmYshBVZHhSZdli7Br6+6YmCPg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/H_KtYpfqtKYAgM2QFC_GbjXNAT0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/HomeActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/HomeActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/HomeActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/HomeActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/HomeActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/HomeActivity$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/HomeActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/HomeActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/IJm1xNPu4+c0_HbOMnloHJu+BDI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/JBy9IU+Bs9arVU7+Ho0xBSoXKws=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/JysenuNROkeQ8tQBTeR1KoGjllY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/LoginActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/LoginActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/LoginActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/LoginActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/LoginActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/LoginActivity$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/LoginActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/LoginActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/MOpdY5XMYLCLYEm_JT0HfaOqQ10=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/MapsActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/MapsActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/N1tfrZIFf4LDo16ZtzBMz1j3IaI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/OlcqI11wjHChVI1IOMaF_RfIEO0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/PKgyIS3wcDoXG_EEjvSOOpoUXJg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/PNoCZ0utkjc6mCmqW15cK1RKahk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/Pe7TzUVnj+x8KValB4YlcBwZZUw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ProfileActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ProfileActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ProfileActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ProfileActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ProfileActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ProfileActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/PuDvqt28Ck6wNuuCVOBLrMDIRrg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/QbP_ZjNVlSafepC1NyxoBYxbJHI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/S5MuK42ACZEO+7AlhMiw2+EQAc8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/SignUpActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/SignUpActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/SignUpActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/SignUpActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/SignUpActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/SignUpActivity$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/SignUpActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/SignUpActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/StdYNSHaU5TWqTfngCnnbC407e8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/UN+hHkWCqLCpyE8hzvaruPqAFjE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/Util.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/XzmGCjmzf_EYhK6w1HMzHHAEFzs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ZynQH5W9er_tW40nIJbGrjZzR9o=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/aUCKkbysdITcs+KcLAenDZFk62M=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/androidResources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/aryoPYbfcmJ9rBODvEosf_N7mgM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/atB7bPc1crS1JjWZLIPJVnK0gJA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/base.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/bdZvTNiVtNQHTG2rlp+V4zQALwg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/c4EE33rfU5kylYv73ejFRPceNTQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/c5GrAyl6pXxEMCWZ8YXTF889a20=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/cH8vvpY0oCdULd2EHmdnnpLfrC0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/cR1grzK5n7aKKf3qSj5H4R7N5GE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/classes1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/classes2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/classes3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/classes4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/d42621e06006330cdfa6bfa794107a19531b5dfcb549e39886673573566c5301_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/d42621e06006330cdfa6bfa794107a19531b5dfcb549e39886673573566c5301_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/d42621e06006330cdfa6bfa794107a19531b5dfcb549e39886673573566c5301_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/d42621e06006330cdfa6bfa794107a19531b5dfcb549e39886673573566c5301_3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/d42621e06006330cdfa6bfa794107a19531b5dfcb549e39886673573566c5301_4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/d42621e06006330cdfa6bfa794107a19531b5dfcb549e39886673573566c5301_5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/d42621e06006330cdfa6bfa794107a19531b5dfcb549e39886673573566c5301_6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/d42621e06006330cdfa6bfa794107a19531b5dfcb549e39886673573566c5301_7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/drawable-anydpi-v24_ic_launcher_foreground.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/drawable_ic_launcher_background.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/dunSrPg6sOVbnmdQ6_xXP3oI7YQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/fSVyKQPVRpaV86OLDOxvCawYwIk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/gXxNLjOOB3XRCEmigePSzapmuCw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph10.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph11.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph12.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph13.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph14.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph15.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph2.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph3.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph4.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph5.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph6.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph7.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph8.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/graph9.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/gww8t+VpCgx7iE7uXkBKwafu02Y=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/iGPnJGN0b8EyGCXIcJ3c9T8U7Is=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/jGtsqhBReaYd0_tO+00k_pO96kU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/javaResources0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/jpJ0zGNlmdRnU2o5k0kPNjP685g=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/k0f_oHH36OWMQSoK4PoH8Z7axHM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/kQ4sKx6HIjneCY3nAmcUjktKKsg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/layout_activity_home.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/layout_activity_login.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/layout_activity_maps.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/layout_activity_profile.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/layout_activity_signup.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/mipmap-anydpi-v26_ic_launcher.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/mipmap-anydpi-v26_ic_launcher_round.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/mipmap-hdpi_ic_launcher.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/mipmap-hdpi_ic_launcher_round.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/mipmap-mdpi_ic_launcher.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/mipmap-mdpi_ic_launcher_round.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/mipmap-xhdpi_ic_launcher.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/mipmap-xhdpi_ic_launcher_round.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/mipmap-xxhdpi_ic_launcher.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/mipmap-xxhdpi_ic_launcher_round.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/mipmap-xxxhdpi_ic_launcher.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/mipmap-xxxhdpi_ic_launcher_round.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ntINxkzbECAuP5CLzJS+CoKAy1E=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/qTelF4O+qrv1useB1bf7SHTMfw4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/rB7Req1tfKLU2PyLrU6KzPGR3eE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/s5hLd1l+xq5PEu1wjqJWwangETg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/suRPS8PfjSqMySV3opNjNGmzReo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/uLwPFNnTnZMcUIXjts_j_NIxHbY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/ui6Ix5Uu6DCuzDuRYA9xQ1oeOiU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/uvfsyJyCvchFwdEdoVH5+el6Jh8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-af_values-af.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-am_values-am.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ar_values-ar.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-as_values-as.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-az_values-az.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-b+es+419_values-b+es+419.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-be_values-be.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-bg_values-bg.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-bn_values-bn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-bs_values-bs.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ca_values-ca.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-cs_values-cs.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-da_values-da.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-de_values-de.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-el_values-el.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-en-rAU_values-en-rAU.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-en-rCA_values-en-rCA.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-en-rGB_values-en-rGB.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-en-rIN_values-en-rIN.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-en-rXC_values-en-rXC.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-es-rUS_values-es-rUS.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-es_values-es.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-et_values-et.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-eu_values-eu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-fa_values-fa.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-fi_values-fi.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-fr-rCA_values-fr-rCA.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-fr_values-fr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-gl_values-gl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-gu_values-gu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-h320dp-port-v13_values-h320dp-port-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-h550dp-port-v13_values-h550dp-port-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-h720dp-v13_values-h720dp-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-hdpi-v4_values-hdpi-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-hi_values-hi.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-hr_values-hr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-hu_values-hu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-hy_values-hy.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-in_values-in.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-is_values-is.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-it_values-it.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-iw_values-iw.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ja_values-ja.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ka_values-ka.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-kk_values-kk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-km_values-km.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-kn_values-kn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ko_values-ko.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ky_values-ky.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-land_values-land.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-large-v4_values-large-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ldltr-v21_values-ldltr-v21.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ldrtl-v17_values-ldrtl-v17.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-lo_values-lo.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-lt_values-lt.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-lv_values-lv.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-mk_values-mk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ml_values-ml.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-mn_values-mn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-mr_values-mr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ms_values-ms.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-my_values-my.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-nb_values-nb.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ne_values-ne.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-night-v8_values-night-v8.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-nl_values-nl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-or_values-or.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-pa_values-pa.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-pl_values-pl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-port_values-port.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-pt-rBR_values-pt-rBR.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-pt-rPT_values-pt-rPT.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-pt_values-pt.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ro_values-ro.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ru_values-ru.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-si_values-si.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-sk_values-sk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-sl_values-sl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-small-v4_values-small-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-sq_values-sq.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-sr_values-sr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-sv_values-sv.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-sw600dp-v13_values-sw600dp-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-sw_values-sw.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ta_values-ta.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-te_values-te.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-th_values-th.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-tl_values-tl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-tr_values-tr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-uk_values-uk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-ur_values-ur.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-uz_values-uz.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-v16_values-v16.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-v17_values-v17.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-v18_values-v18.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-v21_values-v21.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-v22_values-v22.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-v23_values-v23.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-v24_values-v24.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-v25_values-v25.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-v26_values-v26.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-v28_values-v28.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-v31_values-v31.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-vi_values-vi.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-w320dp-land-v13_values-w320dp-land-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-w480dp-port-v13_values-w480dp-port-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-w600dp-land-v13_values-w600dp-land-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-watch-v20_values-watch-v20.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-watch-v21_values-watch-v21.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-xlarge-v4_values-xlarge-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-zh-rCN_values-zh-rCN.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-zh-rHK_values-zh-rHK.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-zh-rTW_values-zh-rTW.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values-zu_values-zu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/values_values.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/x6OBW1NuwYU4Q8q1rAmynmtc2kU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/xGIOO14Il0ESAGc46haV9T9V1eQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/xix2piDDiwpU8Ad4f7ltyifpUHA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/yX2C+sjYakEULebaSx2Fu2+BYTo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/z6+XiMQzo_fsBI3Y+cNtjKKXGdQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM_[Changes]/zU68jeQTeld+nGIz3_CPv7ePOFY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_3_2023_6_19_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/app/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VriendApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/app/src/main/java/com/vriend/app/MapsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/VriendApp/app/src/main/java/com/vriend/app/MapsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/app/src/main/java/com/vriend/app/ProfileActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/VriendApp/app/src/main/java/com/vriend/app/ProfileActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/app/src/main/java/com/vriend/app/userInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/VriendApp/app/src/main/java/com/vriend/app/userInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VriendApp/app/src/main/res/layout/activity_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VriendApp/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,17 +399,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="Jalun_Morris" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2NwD7uU0T7BA1COldexyfSje12h" />
+  <component name="ProjectId" id="2OpfZtAs5yuowgCgKBTVH49RiDJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,33 +415,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "D:/Schoolwork/cse3311/VriendApp"
+    "last_opened_file_path": "D:/Schoolwork/cse3311"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e3859afd-167d-4f19-96d5-8f82239eba69" name="Changes" comment="" />
-      <created>1680566086959</created>
+      <changelist id="b8f59c17-3262-4194-8be1-b932f329d230" name="Changes" comment="" />
+      <created>1682262503675</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680566086959</updated>
+      <updated>1682262503675</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Morris Branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Morris Branch" />
   </component>
 </project>

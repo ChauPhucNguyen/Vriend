@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/EmailAuthApp.iml" filepath="$PROJECT_DIR$/.idea/EmailAuthApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EmailAuthApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EmailAuthApp.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EmailAuthApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EmailAuthApp.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EmailAuthApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EmailAuthApp.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EmailAuthApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EmailAuthApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cse3311.iml" filepath="$PROJECT_DIR$/.idea/cse3311.iml" />
     </modules>
   </component>
 </project>

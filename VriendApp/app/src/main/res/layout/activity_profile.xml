@@ -72,6 +72,140 @@
                 android:textOff="No Folk"
                 android:textOn="Folk" />
 
+            <ToggleButton
+                android:id="@+id/Event10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No R&amp;B"
+                android:textOn="R&amp;B" />
+
+            <ToggleButton
+                android:id="@+id/Event11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Hyperpop"
+                android:textOn="Hyperpop" />
+
+            <ToggleButton
+                android:id="@+id/Event12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Jazz"
+                android:textOn="Jazz" />
+
+            <ToggleButton
+                android:id="@+id/Event13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Eurobeat"
+                android:textOn="Eurobeat" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Video Games"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+            <ToggleButton
+                android:id="@+id/Event4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No FPS"
+                android:textOn="FPS" />
+
+            <ToggleButton
+                android:id="@+id/Event5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Strategy"
+                android:textOn="Strategy" />
+
+            <ToggleButton
+                android:id="@+id/Event6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No RPG"
+                android:textOn="RPG" />
+
+            <ToggleButton
+                android:id="@+id/Event14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Fighting"
+                android:textOn="Fighting" />
+
+            <ToggleButton
+                android:id="@+id/Event15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Shumps"
+                android:textOn="Shumps" />
+
+            <ToggleButton
+                android:id="@+id/Event16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Hack n' Slash"
+                android:textOn="Hack n' Slash" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sports"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+            <ToggleButton
+                android:id="@+id/Event18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Hockey"
+                android:textOn="Hockey" />
+
+            <ToggleButton
+                android:id="@+id/Event17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Nascar"
+                android:textOn="Nascar" />
+
+            <ToggleButton
+                android:id="@+id/Event7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Basketball"
+                android:textOn="Basketball" />
+
+            <ToggleButton
+                android:id="@+id/Event8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Football"
+                android:textOn="Football" />
+
+            <ToggleButton
+                android:id="@+id/Event9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOff="No Baseball"
+                android:textOn="Baseball" />
+
         </LinearLayout>
     </ScrollView>
 

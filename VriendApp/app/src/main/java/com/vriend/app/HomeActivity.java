@@ -52,7 +52,7 @@ public class HomeActivity extends AppCompatActivity {
         binding.btnMap.setOnClickListener(new View.OnClickListener(){
             @Override
             public  void onClick(View view) {
-                //navigate to profile page
+                //navigate to map page
                 HomeActivity.this.finish();
                 Intent intent = new Intent(HomeActivity.this, MapsActivity.class);
                 startActivity(intent);
